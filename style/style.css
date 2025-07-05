@@ -1,6 +1,12 @@
 *{
     margin: 0px;
 }
+.image{
+    background-image: url('../images/pexels-masoodaslami-32861876.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
 .line{
     margin: 10px;
     height: auto;
