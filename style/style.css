@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+.line{
+    margin: 10px;
+    height: auto;
+    color: burlywood;
+}
+.Copyright{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.aboutc{
+    margin-left: 50px;
+    /* border: 2px solid green; */
+    border-radius: 10px;
+}
+.aboutd{
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: xx-small;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
