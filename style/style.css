@@ -1,8 +1,10 @@
 *{
     margin: 0px;
+    /* background-image: url('../images/pexels-masoodaslami-32861881.jpg'); */
+    /* background-repeat: no-repeat; */
 }
 .image{
-    background-image: url('../images/pexels-masoodaslami-32861876.jpg');
+    background-image: url('../images/pexels-masoodaslami-32861881.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -28,4 +30,15 @@
     font-size: xx-small;
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.home{
+  text-align: center;
+  margin: 10px;
+  /* border: 10px solid coral; */
+  padding: 10px;
+  background-color: antiquewhite;
+  color: black;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-position: 10px;
 }
