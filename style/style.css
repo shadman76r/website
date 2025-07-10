@@ -185,3 +185,24 @@ nav li a{
     height: 400px;
     margin: 80px 59.99px 80px 64px;
 }
+
+/* main sections */
+/* section: pillers */
+.pillers{
+   margin: 80px 160px;
+}
+.piller-intro{
+    font-size: 40px;
+    /* font-weight: bold; */
+}
+.piller-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+.piller-1{
+    background-color: #FFFFFF;
+    box-shadow: rgba(14, 14, 14, 0.15);
+    max-width: 302px ;
+}
