@@ -138,3 +138,50 @@ nav li a{
    border-radius: 8px;
    border-color: #006A50;
 }
+
+/* Banner part */
+.banner{
+    background-color: #C6E4D6;
+    /* margin-top: 20px; */
+    margin: 0px 160px;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.banner-contain{
+    max-width: 622px;
+    margin: 0px 64px 0px 59.99px;
+    /* max-height: 326px; */
+    /* margin: 117px 64px 117px 59.99px; */
+}
+.btn-banner{
+    background-color: #006A50;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 17px 34px;
+    border-radius: 8px;
+    border: none;
+}
+.btn-banner-link{
+    text-align: center;
+    text-decoration: none;
+}
+.banner-main{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+}
+.banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.banner-image{
+    width: 474.03px;
+    height: 400px;
+    margin: 80px 59.99px 80px 64px;
+}
