@@ -187,6 +187,10 @@ nav li a{
 }
 
 /* main sections */
+main{
+  max-width: 1280px;
+  /* margin: 0 auto; */
+}
 /* section: pillers */
 .pillers{
    margin: 80px 160px;
@@ -198,11 +202,52 @@ nav li a{
 .piller-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 24px;
+   
 }
 .piller-1{
     background-color: #FFFFFF;
-    box-shadow: rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
     max-width: 302px ;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-right: 24px;
+}
+.piller-2{
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    max-width: 302px ;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-right: 24px;
+}
+.piller-3{
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    max-width: 302px ;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-right: 24px;
+}
+.piller-4{
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    max-width: 302px ;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-right: 24px;;
+}
+.piller-title{
+  font-size: 20px;
+  font-weight: bolder;
+}
+.piller-detail{
+  font-size: 18px;
+  font-weight: 400;
+  color: #0E0E0E;
 }
